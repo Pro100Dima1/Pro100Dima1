@@ -14,4 +14,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-050502?style=for-the-badge&logo=postman)
 
 
-Follow me
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-050502?style=for-the-badge&logo=telegram)](https://t.me/mcrolton)
+[![VK](https://img.shields.io/badge/-VK-050502?style=for-the-badge&logo=vk)](https://vk.com/id55919967)
+[![HeadHunter](https://img.shields.io/badge/-Head_Hunter-050502?style=for-the-badge&logo=hh)](https://hh.ru/resume/e7d77368ff0939f8880039ed1f48494d6c6d35)
