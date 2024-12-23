@@ -3,6 +3,7 @@
 ## I'm Fullstack QA Engineer
 
 ### Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java_Script](https://img.shields.io/badge/-Java_Script-050502?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-050502?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-050502?style=for-the-badge&logo=sql)
