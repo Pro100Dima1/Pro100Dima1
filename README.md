@@ -3,6 +3,9 @@
 ## I'm Fullstack QA Engineer
 
 ### Languages and Tools
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java_Script](https://img.shields.io/badge/-Java_Script-050502?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-050502?style=for-the-badge&logo=python)
