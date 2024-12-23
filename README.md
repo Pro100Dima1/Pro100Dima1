@@ -1,6 +1,6 @@
 ![Header](https://github.com/Pro100Dima1/Pro100Dima1/blob/main/assets/Github_retrowave.png)
 
-## I'm beginner QA Engineer
+## I'm Fullstack QA Engineer
 
 ### Languages and Tools
 ![Java_Script](https://img.shields.io/badge/-Java_Script-050502?style=for-the-badge&logo=javascript)
